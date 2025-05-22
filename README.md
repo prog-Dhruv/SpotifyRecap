@@ -12,7 +12,82 @@ Learn Power BI from scratch
   <li>Understand and apply DAX for calculated insights</li>
   <li>Build a professional-looking interactive dashboard</li>
   <li>Learn something new from scratch (via YouTube and other free resources)</li>
-</ul><br><br>
+</ul><br>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Spotify Dashboard Carousel</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      padding: 20px;
+    }
+
+    .carousel {
+      display: flex;
+      overflow-x: auto;
+      scroll-snap-type: x mandatory;
+      gap: 20px;
+      scroll-behavior: smooth;
+      padding-bottom: 10px;
+    }
+
+    .carousel::-webkit-scrollbar {
+      display: none;
+    }
+
+    .carousel-item {
+      flex: none;
+      width: 100%;
+      max-width: 600px;
+      scroll-snap-align: start;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .carousel-item img {
+      width: 100%;
+      border-radius: 12px;
+      display: block;
+    }
+
+    .caption {
+      text-align: center;
+      padding: 10px;
+      font-size: 14px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>🎧 Spotify Dashboard Visuals</h2>
+
+  <div class="carousel">
+    <div class="carousel-item">
+      <img src="Screenshot 2025-05-22 205950.png" alt="Dashboard Page 1">
+      <div class="caption">Page 1: Overview & Top Artists</div>
+    </div>
+    <div class="carousel-item">
+      <img src="Screenshot 2025-05-22 210016.png" alt="Dashboard Page 2">
+      <div class="caption">Page 2: Mood & Day-wise Analysis</div>
+    </div>
+    <div class="carousel-item">
+      <img src="Screenshot 2025-05-22 210057.png" alt="Dashboard Page 3">
+      <div class="caption">Page 3: Audio Features vs Popularity</div>
+    </div>
+    <div class="carousel-item">
+      <img src="Screenshot 2025-05-22 210210.png" alt="Dashboard Page 4">
+      <div class="caption">Page 4: Clean vs Explicit Songs</div>
+    </div>
+  </div>
+
+</body>
+</html><br>
 
 <h3>Project Overview</h3>
 The dashboard offers deep insights into Spotify music data and allows for interactive exploration of:<br>
