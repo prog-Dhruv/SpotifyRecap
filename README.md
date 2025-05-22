@@ -14,56 +14,14 @@ Learn Power BI from scratch
   <li>Learn something new from scratch (via YouTube and other free resources)</li>
 </ul><br>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Spotify Dashboard Carousel</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
-      padding: 20px;
-    }
-
-    .carousel {
-      display: flex;
-      overflow-x: auto;
-      scroll-snap-type: x mandatory;
-      gap: 20px;
-      scroll-behavior: smooth;
-      padding-bottom: 10px;
-    }
-
-    .carousel::-webkit-scrollbar {
-      display: none;
-    }
-
-    .carousel-item {
-      flex: none;
-      width: 100%;
-      max-width: 600px;
-      scroll-snap-align: start;
-      background: white;
-      border-radius: 12px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    }
-
-    .carousel-item img {
-      width: 100%;
-      border-radius: 12px;
-      display: block;
-    }
-
-    .caption {
-      text-align: center;
-      padding: 10px;
-      font-size: 14px;
-      color: #333;
-    }
-  </style>
-</head>
-<body>
+<p align="center">
+  <img src="LandingPage.png" width="45%" alt="Dashboard Page 1"/>
+  <img src="Page2.png" width="45%" alt="Dashboard Page 2"/>
+</p>
+<p align="center">
+  <img src="Page3.png" width="45%" alt="Dashboard Page 3"/>
+  <img src="Page4.png" width="45%" alt="Dashboard Page 4"/>
+</p>
 
   <h2>🎧 Spotify Dashboard Visuals</h2>
 
