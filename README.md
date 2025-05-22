@@ -1,7 +1,4 @@
-# SpotifyRecap
-A 3-day self-learning project where I built an interactive Power BI dashboard to analyze Spotify data. It explores top artists, song trends, mood patterns, and audio features like danceability, instrumentalness, and loudness. Built from scratch using free resources, DAX, and Power BI , driven by curiosity and a love for music.
-
-<h1>Welcome to my passion project!</h1><br>
+<h1>Welcome to my passion project!</h1>
 <h6>Over the course of 3 days, I set myself a challenge:
 Learn Power BI from scratch
 </h6>
