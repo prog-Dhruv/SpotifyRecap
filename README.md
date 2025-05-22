@@ -21,31 +21,7 @@ Learn Power BI from scratch
 <p align="center">
   <img src="Page3.png" width="45%" alt="Dashboard Page 3"/>
   <img src="Page4.png" width="45%" alt="Dashboard Page 4"/>
-</p>
-
-  <h2>🎧 Spotify Dashboard Visuals</h2>
-
-  <div class="carousel">
-    <div class="carousel-item">
-      <img src="Screenshot 2025-05-22 205950.png" alt="Dashboard Page 1">
-      <div class="caption">Page 1: Overview & Top Artists</div>
-    </div>
-    <div class="carousel-item">
-      <img src="Screenshot 2025-05-22 210016.png" alt="Dashboard Page 2">
-      <div class="caption">Page 2: Mood & Day-wise Analysis</div>
-    </div>
-    <div class="carousel-item">
-      <img src="Screenshot 2025-05-22 210057.png" alt="Dashboard Page 3">
-      <div class="caption">Page 3: Audio Features vs Popularity</div>
-    </div>
-    <div class="carousel-item">
-      <img src="Screenshot 2025-05-22 210210.png" alt="Dashboard Page 4">
-      <div class="caption">Page 4: Clean vs Explicit Songs</div>
-    </div>
-  </div>
-
-</body>
-</html><br>
+</p><br>
 
 <h3>Project Overview</h3>
 The dashboard offers deep insights into Spotify music data and allows for interactive exploration of:<br>
